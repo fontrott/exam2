@@ -1,0 +1,9 @@
+C:\Работа\Крестики\Крестики2\Крестики2\bin\Debug\Крестики2.exe.config
+C:\Работа\Крестики\Крестики2\Крестики2\bin\Debug\Крестики2.exe
+C:\Работа\Крестики\Крестики2\Крестики2\bin\Debug\Крестики2.pdb
+C:\Работа\Крестики\Крестики2\Крестики2\obj\Debug\Крестики2.csproj.AssemblyReference.cache
+C:\Работа\Крестики\Крестики2\Крестики2\obj\Debug\Крестики2.Properties.Resources.resources
+C:\Работа\Крестики\Крестики2\Крестики2\obj\Debug\Крестики2.csproj.GenerateResource.cache
+C:\Работа\Крестики\Крестики2\Крестики2\obj\Debug\Крестики2.csproj.CoreCompileInputs.cache
+C:\Работа\Крестики\Крестики2\Крестики2\obj\Debug\Крестики2.exe
+C:\Работа\Крестики\Крестики2\Крестики2\obj\Debug\Крестики2.pdb
